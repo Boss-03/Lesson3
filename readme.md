@@ -1,4 +1,4 @@
-![Build Status](https://yandex.ru/images/search?pos=25&img_url=https%3A%2F%2Favatars.dzeninfra.ru%2Fget-zen_doc%2F1722013%2Fpub_64df409cc216b40f6c7ab06a_64df40b6d26a363c0f527953%2Fscale_1200&text=js++%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B++string&rpt=simage&lr=10318)
+![Build Status](https://avatars.mds.yandex.net/i?id=5a6e9883fbe24839dccb4a98972e42a35271d92c-4275079-images-thumbs&n=13)
 
 # What is a Method in java script? #
 
@@ -6,8 +6,8 @@
 ### Вы можете передавать данные, известные как параметры, в метод. ###
 ### Методы используются для выполнения определенных действий, и они ###
 ### также известная как функция ###
+![Build Status](https://avatars.mds.yandex.net/i?id=242b01511089b3dd5b0f73f4e460e6f9c166f2be-9870747-images-thumbs&n=13)
 
-![Build Status](https://yandex.ru/images/search?pos=3&img_url=https%3A%2F%2Ffuzeservers.ru%2Fwp-content%2Fuploads%2Ff%2F4%2Fc%2Ff4c996c7c1b12de4406ea5d9c64f94e5.jpeg&text=js+%D1%81%D1%82%D1%80%D0%B8%D0%BD%D1%87+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B&rpt=simage&lr=10318)
 
 ### В ,,, есть 3 вида скобок ###
 .1 ' ' = Одинарные кавычки
@@ -79,6 +79,7 @@ NaN - Функция isNaN() проверяет, является ли знач�
 
 
 # What is array in JS #
+![Build Status](https://avatars.mds.yandex.net/i?id=d28025edf4815bf9e6ca54e48d3cd2e4fc19966d-8350745-images-thumbs&n=13)
 
 ### Массив — это объект, который содержит значения (любого типа), особенно в именованных свойствах/ключах, ###
 ## а скорее в позиции с числовым индексом ###
